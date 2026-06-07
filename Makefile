@@ -24,6 +24,7 @@ FILES	= main.c \
 		  glad.c \
 		  nkimpl.c \
 		  ui.c \
+		  ui_content.c \
 		  widget.c \
 		  graphics.c
 
